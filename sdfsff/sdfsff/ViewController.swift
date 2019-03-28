@@ -16,11 +16,6 @@ class ViewController: UIViewController {
 
 
         sfdkaslfjal;sdjfa
-        f'ads;jf;aljdf
-        fk;dsaljfdl;askf
-        ;lakfjds;laskjfd
-        a;ksdfjals;kdfjl;as
-        ;klfajs;lkjfdl;aksd
     }
 
 
